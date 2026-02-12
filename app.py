@@ -156,15 +156,15 @@ load_css()
 def load_models():
     main_model = None
 
-    if os.path.exists("model_82.h5"):
-        main_model = tf.keras.models.load_model("model_82.h5")
+    if os.path.exists("model.h5"):
+        main_model = tf.keras.models.load_model("model.h5")
 
     return main_model
 model = load_models()
 
 # ================= CLASS NAMES (STEP 2: Added Rice Classes) =================
 try:
-    with open("class_names3.txt", "r") as f:
+    with open("class_names.txt", "r") as f:
         CLASS_NAMES = [line.strip() for line in f.readlines()]
 except FileNotFoundError:
     CLASS_NAMES = [] 

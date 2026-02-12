@@ -1,6 +1,48 @@
 {
     "murali": [
         {
+            "date": "2026-02-12 22:48",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 93.37819814682007,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-12 22:48",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 92.2712504863739,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-12 22:48",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 84.9561870098114,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-12 22:47",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 87.84297704696655,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-12 22:47",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 92.50266551971436,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-12 22:47",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 66.91434979438782,
+            "status": "Infected"
+        },
+        {
             "date": "2026-02-11 18:42",
             "plant": "Rice",
             "disease": "leaf blast",
