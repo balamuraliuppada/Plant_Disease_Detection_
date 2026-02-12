@@ -1,0 +1,41 @@
+Apple___apple scab
+Apple___black rot
+Apple___cedar apple rust
+Apple___healthy
+Cherry___healthy
+Cherry___powdery mildew
+Corn(Maize)___cercospora leaf spot gray leaf spot
+Corn(Maize)___common rust
+Corn(Maize)___healthy
+Corn(Maize)___northern leaf blight
+Grape___black rot
+Grape___esca (black measles)
+Grape___healthy
+Grape___leaf blight (isariopsis leaf spot)
+Orange___haunglongbing (citrus greening)
+Peach___bacterial spot
+Peach___healthy
+Pepper,Bell___bacterial spot
+Pepper,Bell___healthy
+Potato___early blight
+Potato___healthy
+Potato___late blight
+Rice___bacterial_leaf_blight
+Rice___brown_spot
+Rice___healthy
+Rice___leaf_blast
+Rice___leaf_scald
+Rice___narrow_brown_spot
+Squash___powdery mildew
+Strawberry___healthy
+Strawberry___leaf scorch
+Tomato___bacterial spot
+Tomato___early blight
+Tomato___healthy
+Tomato___late blight
+Tomato___leaf mold
+Tomato___septoria leaf spot
+Tomato___spider mites two-spotted spider mite
+Tomato___target spot
+Tomato___tomato mosaic virus
+Tomato___tomato yellow leaf curl virus

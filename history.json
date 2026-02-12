@@ -1,0 +1,3233 @@
+{
+    "murali": [
+        {
+            "date": "2026-02-11 18:42",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 60.733652114868164,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-11 18:41",
+            "plant": "Unknown",
+            "disease": "leaf blast",
+            "confidence": 60.733652114868164,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:56",
+            "plant": "Unknown",
+            "disease": "leaf scald",
+            "confidence": 77.92450189590454,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:55",
+            "plant": "Unknown",
+            "disease": "leaf scald",
+            "confidence": 99.98924732208252,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:55",
+            "plant": "Unknown",
+            "disease": "bacterial leaf blight",
+            "confidence": 36.241865158081055,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:55",
+            "plant": "Unknown",
+            "disease": "narrow brown spot",
+            "confidence": 92.9868221282959,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:54",
+            "plant": "Unknown",
+            "disease": "bacterial leaf blight",
+            "confidence": 88.68722319602966,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:54",
+            "plant": "Unknown",
+            "disease": "brown spot",
+            "confidence": 99.89344477653503,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:54",
+            "plant": "Unknown",
+            "disease": "brown spot",
+            "confidence": 69.0937340259552,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:54",
+            "plant": "Unknown",
+            "disease": "leaf blast",
+            "confidence": 59.19660925865173,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:53",
+            "plant": "Unknown",
+            "disease": "leaf blast",
+            "confidence": 84.43110585212708,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:53",
+            "plant": "Unknown",
+            "disease": "leaf blast",
+            "confidence": 81.71180486679077,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:53",
+            "plant": "Unknown",
+            "disease": "brown spot",
+            "confidence": 98.53549003601074,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:52",
+            "plant": "Unknown",
+            "disease": "brown spot",
+            "confidence": 71.30998373031616,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-10 19:51",
+            "plant": "Unknown",
+            "disease": "leaf blast",
+            "confidence": 95.579993724823,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:29",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 86.30622625350952,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:27",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.06721711158752,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:27",
+            "plant": "Tomato",
+            "disease": "early blight",
+            "confidence": 18.45310628414154,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:26",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 59.65990424156189,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:26",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 55.773717164993286,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:26",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 81.66859745979309,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:25",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.85925555229187,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:24",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.06721711158752,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 19:23",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 99.37334656715393,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:45",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 80.64556121826172,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:45",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 38.48394155502319,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:44",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 44.697633385658264,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:44",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 47.475963830947876,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:41",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 39.246347546577454,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:40",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 78.74820232391357,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:40",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 58.37718844413757,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:40",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 34.41233932971954,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:39",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 74.30762052536011,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:39",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 88.51550221443176,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:39",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 73.80337715148926,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:39",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 84.94252562522888,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:39",
+            "plant": "Potato",
+            "disease": "healthy",
+            "confidence": 23.70353192090988,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 18:38",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 55.94162940979004,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:38",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 70.19675970077515,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:38",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 72.6330816745758,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:37",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 83.44875574111938,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:37",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 68.02769899368286,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:37",
+            "plant": "Tomato",
+            "disease": "early blight",
+            "confidence": 41.690024733543396,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:36",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 40.876880288124084,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:36",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 55.69574236869812,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 18:36",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 48.5068678855896,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:35",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 46.164608001708984,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:35",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 24.64725375175476,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:35",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 68.86683702468872,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:35",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 66.10127687454224,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:34",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 68.42116713523865,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 18:34",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 66.91364049911499,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:34",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 35.39610803127289,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:33",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 98.59678745269775,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:33",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 29.282614588737488,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 18:33",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 97.29860424995422,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 17:28",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 49.42344129085541,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 17:25",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 80.98748922348022,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 17:25",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 80.98748922348022,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:56",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 80.98748922348022,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:55",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 43.98369789123535,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:54",
+            "plant": "Tomato",
+            "disease": "bacterial spot",
+            "confidence": 34.054744243621826,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:54",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 43.00783574581146,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:54",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 37.107160687446594,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:53",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 30.095326900482178,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:53",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 93.59151124954224,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:52",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 80.02727627754211,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:52",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 72.73567914962769,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 16:51",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 80.02727627754211,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:14",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 73.95610213279724,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:13",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 35.37643253803253,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:13",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 57.96297788619995,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:13",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 18.141330778598785,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:13",
+            "plant": "Tomato",
+            "disease": "early blight",
+            "confidence": 54.76643443107605,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:12",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 53.87266278266907,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:11",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 40.23870527744293,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:11",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 22.17695266008377,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:11",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 40.23870527744293,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:11",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 63.64321708679199,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:10",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 85.19474864006042,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:10",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 57.5208306312561,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:09",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 79.57420945167542,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:09",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 72.38622903823853,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:09",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 81.6641628742218,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:09",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 93.33818554878235,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:08",
+            "plant": "Grape",
+            "disease": "esca (black measles)",
+            "confidence": 61.5490198135376,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:08",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 98.96082282066345,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:08",
+            "plant": "Grape",
+            "disease": "esca (black measles)",
+            "confidence": 22.532039880752563,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:07",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 99.48754906654358,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:07",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 24.316971004009247,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:07",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 62.01621890068054,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:06",
+            "plant": "Squash",
+            "disease": "powdery mildew",
+            "confidence": 27.981188893318176,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:06",
+            "plant": "Squash",
+            "disease": "powdery mildew",
+            "confidence": 82.73478150367737,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:06",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 34.940943121910095,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:06",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 49.34752285480499,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:05",
+            "plant": "Tomato",
+            "disease": "early blight",
+            "confidence": 52.40359306335449,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:05",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 20.8858460187912,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:05",
+            "plant": "Potato",
+            "disease": "early blight",
+            "confidence": 50.58136582374573,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:04",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 18.388965725898743,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:04",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 88.03113102912903,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:04",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 51.09371542930603,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:04",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 33.449459075927734,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:04",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 62.426650524139404,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:03",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 33.40461254119873,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:03",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 46.70842885971069,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:03",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 41.55574440956116,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:02",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 30.734312534332275,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:02",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 98.35538864135742,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:02",
+            "plant": "Potato",
+            "disease": "healthy",
+            "confidence": 28.849583864212036,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:02",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 89.1605019569397,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 15:01",
+            "plant": "Rice",
+            "disease": "narrow brown spot",
+            "confidence": 30.99685311317444,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:01",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 81.95651173591614,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:01",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 65.07428884506226,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:01",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 75.74065923690796,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:00",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 40.604859590530396,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:00",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 62.564945220947266,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:00",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 81.97546005249023,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:00",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 30.72373867034912,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 15:00",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 88.65129351615906,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:14",
+            "plant": "Corn_(maize)",
+            "disease": "Northern Leaf Blight",
+            "confidence": 97.75365591049194,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:14",
+            "plant": "Corn_(maize)",
+            "disease": "Northern Leaf Blight",
+            "confidence": 93.51919293403625,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:14",
+            "plant": "Potato",
+            "disease": "Early blight",
+            "confidence": 99.93817806243896,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:13",
+            "plant": "Apple",
+            "disease": "Cedar apple rust",
+            "confidence": 96.14447951316833,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:13",
+            "plant": "Apple",
+            "disease": "Cedar apple rust",
+            "confidence": 99.99980926513672,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:04",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 99.99980926513672,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 12:04",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 99.99996423721313,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 12:04",
+            "plant": "Apple",
+            "disease": "Cedar apple rust",
+            "confidence": 99.9996542930603,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:04",
+            "plant": "Apple",
+            "disease": "Cedar apple rust",
+            "confidence": 99.99778270721436,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:04",
+            "plant": "Apple",
+            "disease": "Cedar apple rust",
+            "confidence": 99.99922513961792,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:03",
+            "plant": "Apple",
+            "disease": "Cedar apple rust",
+            "confidence": 81.92480206489563,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 12:01",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 88.47008943557739,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 12:01",
+            "plant": "Cherry_(including_sour)",
+            "disease": "healthy",
+            "confidence": 34.36952829360962,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 12:00",
+            "plant": "Cherry_(including_sour)",
+            "disease": "healthy",
+            "confidence": 76.23942494392395,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 11:01",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 81.88596367835999,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 11:01",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 31.37717843055725,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 11:00",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 51.03975534439087,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 11:00",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 16.27081334590912,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 11:00",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 32.19635486602783,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:59",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 93.68714094161987,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 10:57",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 8.702488243579865,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:56",
+            "plant": "Peach",
+            "disease": "healthy",
+            "confidence": 59.275102615356445,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 10:56",
+            "plant": "Peach",
+            "disease": "healthy",
+            "confidence": 23.97732138633728,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 10:56",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 67.35671758651733,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 10:55",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 95.6682801246643,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-09 10:54",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 41.80995523929596,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:54",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 36.752691864967346,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:53",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 85.12974977493286,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:53",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 51.0481595993042,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:53",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 35.625407099723816,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-09 10:52",
+            "plant": "Potato",
+            "disease": "early blight",
+            "confidence": 31.754907965660095,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:34",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 36.58168017864227,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:33",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 63.825416564941406,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:32",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 81.63779377937317,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:32",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 9.274649620056152,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:32",
+            "plant": "Grape",
+            "disease": "healthy",
+            "confidence": 28.98021936416626,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:31",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 48.24196398258209,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:31",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 17.515818774700165,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:30",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 40.19559919834137,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:30",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 25.28052031993866,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:30",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 18.539413809776306,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:29",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 18.48110556602478,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:29",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 43.83386671543121,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:29",
+            "plant": "Apple",
+            "disease": "cedar apple rust",
+            "confidence": 59.001392126083374,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:28",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 20.910991728305817,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:28",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 80.30151724815369,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:27",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 99.96516704559326,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:27",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 16.71196222305298,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:26",
+            "plant": "Potato",
+            "disease": "early blight",
+            "confidence": 11.468613147735596,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:26",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 28.9625883102417,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:25",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 13.81668746471405,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:25",
+            "plant": "Potato",
+            "disease": "healthy",
+            "confidence": 25.51959753036499,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:25",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 37.86565959453583,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:24",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 88.4899914264679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:24",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 28.438210487365723,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:24",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 91.10302329063416,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:22",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 99.9232530593872,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:21",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 96.19448184967041,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:21",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 99.9990701675415,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:20",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 98.53549003601074,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:20",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 22.285950183868408,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:20",
+            "plant": "Potato",
+            "disease": "early blight",
+            "confidence": 41.86164438724518,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:19",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 50.48491358757019,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:17",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 99.98924732208252,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:17",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 89.5478904247284,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:16",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 99.98340606689453,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-08 23:16",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 97.28010892868042,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:16",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 69.28078532218933,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-08 23:07",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 93.21610927581787,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 22:04",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 89.79649543762207,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:52",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 29.693442583084106,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:52",
+            "plant": "Cassava",
+            "disease": "Healthy",
+            "confidence": 33.703938126564026,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-07 21:52",
+            "plant": "Tomato",
+            "disease": "early blight",
+            "confidence": 92.08497405052185,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:51",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 89.97240662574768,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:50",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 98.38321208953857,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:50",
+            "plant": "Cassava",
+            "disease": "Brown Streak Disease (CBSD)",
+            "confidence": 27.170643210411072,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:50",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 29.229560494422913,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:49",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 80.95660209655762,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:49",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 92.90311932563782,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:48",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 76.75790786743164,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:12",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:12",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.83876943588257,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 21:11",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:47",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 33.31223726272583,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:46",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 69.66235041618347,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:43",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 50.8557915687561,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:43",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 87.03069686889648,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:43",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 50.8557915687561,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:11",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 98.06838631629944,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:11",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 98.8142192363739,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:10",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 95.19856572151184,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:10",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 87.64439225196838,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-07 18:10",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 80.19152283668518,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:10",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.99011754989624,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-07 18:09",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.63029623031616,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-07 18:09",
+            "plant": "Potato",
+            "disease": "healthy",
+            "confidence": 99.83360171318054,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-07 18:08",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 99.99023675918579,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-07 18:08",
+            "plant": "Apple",
+            "disease": "healthy",
+            "confidence": 89.5790159702301,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 23:52",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 29.633569717407227,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:52",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 45.1998233795166,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:52",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 99.73798394203186,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:51",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 97.60762453079224,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:51",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 25.760462880134583,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:50",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 35.79573631286621,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:50",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 30.49027919769287,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:49",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 42.41476356983185,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:49",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 47.95569181442261,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:48",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:48",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.99949932098389,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:47",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.99896287918091,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:47",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.7978150844574,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:46",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 28.644821047782898,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 23:46",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 99.99710321426392,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 23:45",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 99.99991655349731,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 23:45",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 80.19152283668518,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:45",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 99.99910593032837,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:45",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 90.07492065429688,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:44",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:44",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 99.98821020126343,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:44",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:44",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 99.24628734588623,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:43",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 73.18194508552551,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:42",
+            "plant": "Cassava",
+            "disease": "Healthy",
+            "confidence": 42.74670481681824,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 23:42",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 38.31539452075958,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:42",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 41.80777966976166,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:40",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 99.90943670272827,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:40",
+            "plant": "Tomato",
+            "disease": "tomato mosaic virus",
+            "confidence": 99.77468848228455,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:39",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 99.89375472068787,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:39",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 99.99967813491821,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:34",
+            "plant": "Tomato",
+            "disease": "tomato yellow leaf curl virus",
+            "confidence": 99.97920393943787,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:32",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 71.65151238441467,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 23:31",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 59.26946997642517,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:57",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 78.2605528831482,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:55",
+            "plant": "Apple",
+            "disease": "healthy",
+            "confidence": 89.5790159702301,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:52",
+            "plant": "Cassava",
+            "disease": "Brown Streak Disease (CBSD)",
+            "confidence": 31.35553002357483,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:51",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 95.86660861968994,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:50",
+            "plant": "Apple",
+            "disease": "healthy",
+            "confidence": 77.90886759757996,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:50",
+            "plant": "Apple",
+            "disease": "healthy",
+            "confidence": 77.90886759757996,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:50",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 34.238141775131226,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:49",
+            "plant": "Pepper,Bell",
+            "disease": "healthy",
+            "confidence": 88.40867877006531,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:48",
+            "plant": "Apple",
+            "disease": "healthy",
+            "confidence": 77.90886759757996,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:30",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 99.6856689453125,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:30",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 32.09664225578308,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:28",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 50.834470987319946,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:27",
+            "plant": "Cassava",
+            "disease": "Healthy",
+            "confidence": 44.720420241355896,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:26",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 29.15986478328705,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:19",
+            "plant": "Cassava",
+            "disease": "Healthy",
+            "confidence": 23.21942001581192,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 19:18",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 57.7961266040802,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:17",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 96.5158224105835,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:16",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 41.01231396198273,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:11",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 42.96744465827942,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:08",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.99425411224365,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:05",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 98.98642897605896,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 19:05",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 99.94454979896545,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 18:44",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.99436140060425,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:57",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.99743700027466,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:57",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.97511506080627,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:57",
+            "plant": "Tomato",
+            "disease": "late blight",
+            "confidence": 64.47305083274841,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:57",
+            "plant": "Tomato",
+            "disease": "early blight",
+            "confidence": 49.44983720779419,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:57",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 76.75787806510925,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 99.4750440120697,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 99.05433058738708,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 43.239280581474304,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 92.12751984596252,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 94.55786347389221,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 63.24770450592041,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:56",
+            "plant": "Potato",
+            "disease": "late blight",
+            "confidence": 50.50978660583496,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:55",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 92.42501258850098,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:55",
+            "plant": "Cherry",
+            "disease": "powdery mildew",
+            "confidence": 99.99587535858154,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:54",
+            "plant": "Tomato",
+            "disease": "healthy",
+            "confidence": 99.97285008430481,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:54",
+            "plant": "Orange",
+            "disease": "haunglongbing (citrus greening)",
+            "confidence": 99.99997615814209,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:54",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 89.38373327255249,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:54",
+            "plant": "Cassava",
+            "disease": "Healthy",
+            "confidence": 28.880208730697632,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:54",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 71.65997624397278,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Peach",
+            "disease": "healthy",
+            "confidence": 99.99642372131348,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 99.19373393058777,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 98.62327575683594,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.9855637550354,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.99808073043823,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 99.9096155166626,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:53",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 99.98918771743774,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:52",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 93.52170825004578,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:52",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:52",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 98.711097240448,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:52",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 94.9486494064331,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:52",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 91.15094542503357,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:51",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 87.37447261810303,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:51",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 40.816766023635864,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:51",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 66.34339094161987,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:51",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 99.26799535751343,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:51",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 77.68025398254395,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:50",
+            "plant": "Pepper,Bell",
+            "disease": "healthy",
+            "confidence": 99.99274015426636,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:50",
+            "plant": "Cassava",
+            "disease": "Brown Streak Disease (CBSD)",
+            "confidence": 43.64315867424011,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:50",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 99.99982118606567,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:50",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 99.99991655349731,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:50",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.99998807907104,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:50",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.97511506080627,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:49",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.94916915893555,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:49",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 99.99723434448242,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:49",
+            "plant": "Potato",
+            "disease": "healthy",
+            "confidence": 80.73153495788574,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:46",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 99.5510458946228,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:46",
+            "plant": "Grape",
+            "disease": "esca (black measles)",
+            "confidence": 99.97671246528625,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Grape",
+            "disease": "esca (black measles)",
+            "confidence": 74.68428015708923,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.97804760932922,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.88586902618408,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Corn(Maize)",
+            "disease": "cercospora leaf spot gray leaf spot",
+            "confidence": 67.43998527526855,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Peach",
+            "disease": "healthy",
+            "confidence": 99.95373487472534,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Tomato",
+            "disease": "tomato mosaic virus",
+            "confidence": 99.9092698097229,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:45",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 80.19129037857056,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 17:44",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 80.19129037857056,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:45",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 80.19129037857056,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:44",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 92.70157217979431,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:44",
+            "plant": "Cassava",
+            "disease": "Brown Streak Disease (CBSD)",
+            "confidence": 55.969780683517456,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:44",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 44.962409138679504,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:43",
+            "plant": "Tomato",
+            "disease": "leaf mold",
+            "confidence": 99.94454979896545,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:42",
+            "plant": "Squash",
+            "disease": "powdery mildew",
+            "confidence": 99.99804496765137,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:42",
+            "plant": "Squash",
+            "disease": "powdery mildew",
+            "confidence": 99.9943494796753,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:42",
+            "plant": "Pepper,Bell",
+            "disease": "bacterial spot",
+            "confidence": 99.93090629577637,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:41",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 99.99998807907104,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:41",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:41",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 66.05837941169739,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:41",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 93.25475096702576,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:41",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 96.10535502433777,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:40",
+            "plant": "Peach",
+            "disease": "healthy",
+            "confidence": 99.99642372131348,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:40",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 97.09221124649048,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:40",
+            "plant": "Tomato",
+            "disease": "septoria leaf spot",
+            "confidence": 99.99556541442871,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:39",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 95.19857168197632,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:39",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 99.99195337295532,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:37",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 99.9208152294159,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:35",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 99.9208152294159,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:35",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:35",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 99.99998807907104,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:34",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:34",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 64.12861943244934,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:34",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 54.48514223098755,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:34",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 99.83152151107788,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:16",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 60.73361039161682,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:16",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 99.31252002716064,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:15",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 98.73431921005249,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:15",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 39.2163872718811,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:15",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 82.95804262161255,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:15",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:14",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 100.0,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:13",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 79.14291620254517,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:13",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 57.53033757209778,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:13",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 64.73226547241211,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:12",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 59.083062410354614,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:12",
+            "plant": "Rice",
+            "disease": "leaf blast",
+            "confidence": 95.19857168197632,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:11",
+            "plant": "Rice",
+            "disease": "brown spot",
+            "confidence": 67.55021810531616,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:11",
+            "plant": "Rice",
+            "disease": "narrow brown spot",
+            "confidence": 94.76093053817749,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:06",
+            "plant": "Rice",
+            "disease": "narrow brown spot",
+            "confidence": 99.45313334465027,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:06",
+            "plant": "Rice",
+            "disease": "narrow brown spot",
+            "confidence": 99.80685114860535,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:05",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 99.63010549545288,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:05",
+            "plant": "Rice",
+            "disease": "narrow brown spot",
+            "confidence": 50.41924715042114,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:05",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 95.86660861968994,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:04",
+            "plant": "Rice",
+            "disease": "bacterial leaf blight",
+            "confidence": 99.9208152294159,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:04",
+            "plant": "Rice",
+            "disease": "leaf scald",
+            "confidence": 99.99998807907104,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 16:04",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 99.48832988739014,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 16:00",
+            "plant": "Rice",
+            "disease": "healthy",
+            "confidence": 99.68525767326355,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 15:52",
+            "plant": "Rice",
+            "disease": "Healthy",
+            "confidence": 38.43151032924652,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 15:52",
+            "plant": "Rice",
+            "disease": "BrownSpot",
+            "confidence": 50.306689739227295,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 15:50",
+            "plant": "Rice",
+            "disease": "BrownSpot",
+            "confidence": 78.88370752334595,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 15:50",
+            "plant": "Rice",
+            "disease": "BrownSpot",
+            "confidence": 46.80907726287842,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 15:49",
+            "plant": "Rice",
+            "disease": "BrownSpot",
+            "confidence": 68.132883310318,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:56",
+            "plant": "Strawberry",
+            "disease": "leaf scorch",
+            "confidence": 99.9321460723877,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:55",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 99.96334314346313,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:55",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 96.68189883232117,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:55",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 95.02601623535156,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:55",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 91.86780452728271,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:55",
+            "plant": "Grape",
+            "disease": "esca (black measles)",
+            "confidence": 74.68428015708923,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:54",
+            "plant": "Orange",
+            "disease": "haunglongbing (citrus greening)",
+            "confidence": 99.99998807907104,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:54",
+            "plant": "Orange",
+            "disease": "haunglongbing (citrus greening)",
+            "confidence": 99.94200468063354,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:54",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 99.26799535751343,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:53",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 66.34339094161987,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:51",
+            "plant": "Cassava",
+            "disease": "Brown Streak Disease (CBSD)",
+            "confidence": 43.64315867424011,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:51",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 29.266145825386047,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:50",
+            "plant": "Pepper,Bell",
+            "disease": "healthy",
+            "confidence": 99.99274015426636,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:50",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 99.26799535751343,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:50",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.9909520149231,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:49",
+            "plant": "Strawberry",
+            "disease": "healthy",
+            "confidence": 99.99982118606567,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:49",
+            "plant": "Tomato",
+            "disease": "tomato mosaic virus",
+            "confidence": 99.50266480445862,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:49",
+            "plant": "Pepper,Bell",
+            "disease": "healthy",
+            "confidence": 99.99274015426636,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:46",
+            "plant": "Corn(Maize)",
+            "disease": "common rust",
+            "confidence": 99.26799535751343,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:45",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 29.266145825386047,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:44",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 93.58737468719482,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:44",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 77.68025398254395,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:43",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 77.68025398254395,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:42",
+            "plant": "Pepper,Bell",
+            "disease": "healthy",
+            "confidence": 99.99274015426636,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:41",
+            "plant": "Squash",
+            "disease": "powdery mildew",
+            "confidence": 99.9995470046997,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:41",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 84.87672805786133,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:40",
+            "plant": "Tomato",
+            "disease": "healthy",
+            "confidence": 99.97285008430481,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:40",
+            "plant": "Potato",
+            "disease": "healthy",
+            "confidence": 92.98969507217407,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:40",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 51.05096697807312,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:39",
+            "plant": "Cassava",
+            "disease": "Bacterial Blight (CBB)",
+            "confidence": 36.85476779937744,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 14:39",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.72018003463745,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:36",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 96.79493308067322,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 14:24",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.97062087059021,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 13:58",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.99772310256958,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 13:57",
+            "plant": "Cherry",
+            "disease": "healthy",
+            "confidence": 99.6302843093872,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 13:56",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 98.62327575683594,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:53",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 90.10876417160034,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:53",
+            "plant": "Apple",
+            "disease": "apple scab",
+            "confidence": 98.62327575683594,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:53",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 52.868008613586426,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:53",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 30.970171093940735,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:53",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 52.868008613586426,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:53",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 97.49873876571655,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:52",
+            "plant": "Cassava",
+            "disease": "Mosaic Disease (CMD)",
+            "confidence": 95.32081484794617,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:47",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 97.50715494155884,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:37",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 97.1843957901001,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:19",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 96.68189883232117,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:05",
+            "plant": "Peach",
+            "disease": "bacterial spot",
+            "confidence": 96.68189883232117,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:03",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 74.55432415008545,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 13:00",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 78.90811562538147,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:46",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 84.77221131324768,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:41",
+            "plant": "Tomato",
+            "disease": "spider mites two-spotted spider mite",
+            "confidence": 95.84292769432068,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:41",
+            "plant": "Rice",
+            "disease": "Healthy",
+            "confidence": 37.17421889305115,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:41",
+            "plant": "Rice",
+            "disease": "LeafBlast",
+            "confidence": 29.354798793792725,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:40",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 99.97093081474304,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:40",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 99.97093081474304,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:39",
+            "plant": "Cassava",
+            "disease": "Green Mottle (CGM)",
+            "confidence": 23.77447932958603,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:39",
+            "plant": "Tomato",
+            "disease": "tomato mosaic virus",
+            "confidence": 99.9639630317688,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:37",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 99.99951124191284,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 99.99951124191284,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Grape",
+            "disease": "leaf blight (isariopsis leaf spot)",
+            "confidence": 99.99951124191284,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.95719790458679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.95719790458679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.95719790458679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.95719790458679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.95719790458679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:36",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.95719790458679,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:35",
+            "plant": "Pepper,Bell",
+            "disease": "healthy",
+            "confidence": 100.0,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:35",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 78.87985706329346,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:32",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 99.3926465511322,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:27",
+            "plant": "Tomato",
+            "disease": "target spot",
+            "confidence": 91.31995439529419,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:26",
+            "plant": "Grape",
+            "disease": "black rot",
+            "confidence": 97.21130132675171,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:25",
+            "plant": "Corn(Maize)",
+            "disease": "healthy",
+            "confidence": 99.99934434890747,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:25",
+            "plant": "Rice",
+            "disease": "Healthy",
+            "confidence": 36.31949722766876,
+            "status": "Healthy"
+        },
+        {
+            "date": "2026-02-06 12:25",
+            "plant": "Apple",
+            "disease": "cedar apple rust",
+            "confidence": 98.58993887901306,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:20",
+            "plant": "Apple",
+            "disease": "cedar apple rust",
+            "confidence": 99.94378685951233,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:19",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 87.02306747436523,
+            "status": "Infected"
+        },
+        {
+            "date": "2026-02-06 12:19",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 86.49114966392517,
+            "status": "Infected"
+        }
+    ],
+    "balu": [
+        {
+            "date": "2026-02-06 12:58",
+            "plant": "Corn(Maize)",
+            "disease": "northern leaf blight",
+            "confidence": 96.10535502433777,
+            "status": "Infected"
+        }
+    ]
+}
