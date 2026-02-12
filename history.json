@@ -1,6 +1,13 @@
 {
     "murali": [
         {
+            "date": "2026-02-12 22:54",
+            "plant": "Apple",
+            "disease": "black rot",
+            "confidence": 99.33451414108276,
+            "status": "Infected"
+        },
+        {
             "date": "2026-02-12 22:48",
             "plant": "Corn(Maize)",
             "disease": "cercospora leaf spot gray leaf spot",
