@@ -202,7 +202,7 @@ def load_models():
     models = {"Rice": None, "Pulses": None}
 
     model_paths = {
-        "Rice": "models/rice_model_fixed.keras",
+        "Rice": "models/rice_model_clean.keras",
         "Pulses": "models/pulses_model_fixed.keras"
     }
 
