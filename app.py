@@ -202,8 +202,8 @@ def load_models():
     models = {"Rice": None, "Pulses": None}
 
     model_paths = {
-        "Rice": "models/rice_model.keras",
-        "Pulses": "models/pulses_model.keras"
+        "Rice": "models/rice_model1.keras",
+        "Pulses": "models/pulses_model1.keras"
     }
 
     for name, path in model_paths.items():
