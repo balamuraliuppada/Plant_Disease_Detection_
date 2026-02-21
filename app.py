@@ -201,13 +201,24 @@ load_css()
 def load_models():
     models = {"Rice": None, "Pulses": None}
 
-    for name in ["Rice", "Pulses"]:
-        path = f"models/{name.lower()}_model.keras"
-        if os.path.exists(path):
-            models[name] = tf.keras.models.load_model(
-                path,
+    pulses_path = "models/pulses_model.keras"
+    rice_path = "models/rice_model.keras"
+
+    try:
+        if os.path.exists(pulses_path):
+            models["Pulses"] = tf.keras.models.load_model(
+                pulses_path,
                 compile=False
             )
+
+        if os.path.exists(rice_path):
+            models["Rice"] = tf.keras.models.load_model(
+                rice_path,
+                compile=False
+            )
+
+    except Exception as e:
+        st.error(f"Model loading failed: {e}")
 
     return models
 
