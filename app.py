@@ -202,8 +202,8 @@ def load_models():
     models = {"Rice": None, "Pulses": None}
 
     model_paths = {
-        "Rice": "models/rice_model1.keras",
-        "Pulses": "models/pulses_model2.keras"
+        "Rice": "models/rice_model.keras",
+        "Pulses": "models/pulses_model.keras"
     }
 
     for name, path in model_paths.items():
@@ -217,8 +217,6 @@ def load_models():
 
                 # Force build to avoid Keras graph bugs
                 models[name].build((None, 224, 224, 3))
-
-                st.success(f"{name} model loaded ✅")
 
             except Exception as e:
                 st.error(f"{name} model failed to load: {e}")

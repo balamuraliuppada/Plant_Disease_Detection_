@@ -13,6 +13,8 @@ def register_user(email, password):
 
     try:
         auth.create_user_with_email_and_password(email, password)
+        if len(password) < 6:
+            return False, "Password should be at least 6 characters"
         return True, "Registration Successful"
 
     except Exception as e:
