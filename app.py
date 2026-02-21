@@ -210,13 +210,6 @@ def load_models():
                 pulses_path,
                 compile=False
             )
-
-        if os.path.exists(rice_path):
-            models["Rice"] = tf.keras.models.load_model(
-                rice_path,
-                compile=False
-            )
-
     except Exception as e:
         st.error(f"Model loading failed: {e}")
 
