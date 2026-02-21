@@ -201,19 +201,33 @@ load_css()
 def load_models():
     models = {"Rice": None, "Pulses": None}
 
-    pulses_path = "models/pulses_model.keras"
-    rice_path = "models/rice_model.keras"
+    model_paths = {
+        "Rice": "models/rice_model.keras",
+        "Pulses": "models/pulses_model.keras"
+    }
 
-    try:
-        if os.path.exists(pulses_path):
-            models["Pulses"] = tf.keras.models.load_model(
-                pulses_path,
-                compile=False
-            )
-    except Exception as e:
-        st.error(f"Model loading failed: {e}")
+    for name, path in model_paths.items():
+        if os.path.exists(path):
+            try:
+                models[name] = tf.keras.models.load_model(
+                    path,
+                    compile=False,
+                    safe_mode=False
+                )
+
+                # Force build to avoid Keras graph bugs
+                models[name].build((None, 224, 224, 3))
+
+                st.success(f"{name} model loaded ✅")
+
+            except Exception as e:
+                st.error(f"{name} model failed to load: {e}")
+
+        else:
+            st.warning(f"{name} model file not found at {path}")
 
     return models
+
 
 loaded_models = load_models()
 
