@@ -1,10 +1,10 @@
 streamlit
 numpy
 pillow
+tensorflow
 opencv-python-headless
 scikit-learn
 matplotlib
 pyrebase4
 firebase-admin
 tensorflow
-keras
