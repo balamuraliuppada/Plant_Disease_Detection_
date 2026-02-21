@@ -200,12 +200,25 @@ load_css()
 @st.cache_resource
 def load_models():
     models = {"Rice": None, "Pulses": None}
-    
-    if os.path.exists("models/pulses_model.h5"):
-        models["Pulses"] = tf.keras.models.load_model("models/pulses_model.h5")
-    
-    if os.path.exists("models/rice_model.h5"):
-        models["Rice"] = tf.keras.models.load_model("models/rice_model.h5")
+
+    pulses_path = "models/pulses_model.keras"
+    rice_path = "models/rice_model.keras"
+
+    try:
+        if os.path.exists(pulses_path):
+            models["Pulses"] = tf.keras.models.load_model(
+                pulses_path,
+                compile=False
+            )
+
+        if os.path.exists(rice_path):
+            models["Rice"] = tf.keras.models.load_model(
+                rice_path,
+                compile=False
+            )
+
+    except Exception as e:
+        st.error(f"Model loading failed: {e}")
 
     return models
 
