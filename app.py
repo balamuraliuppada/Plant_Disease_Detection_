@@ -388,7 +388,7 @@ def dashboard_view():
                 st.markdown("<h3>Analysis Results</h3>", unsafe_allow_html=True)
                 if uploaded_file and st.button("Analyze Leaf", use_container_width=True):
                     if current_model:
-                        with st.spinner(f"Accessing {st.session_state.crop_choice} Neural Engine..."):
+                        with st.spinner(f"Analyzing {st.session_state.crop_choice} leaf using AI model..."):
                             img = preprocess_image(image)
                             preds = current_model.predict(img)
                             top_indices = np.argsort(preds[0])[-10:][::-1]
