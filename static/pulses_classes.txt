@@ -1,0 +1,17 @@
+Bean___Blight
+Bean___Healthy
+Bean___Mosaic Virus
+Bean___Rust
+Black Gram___Cercospora leaf spot
+Black Gram___Healthy
+Black Gram___Insect
+Black Gram___Leaf Crinkle
+Black Gram___Yellow Mosaic
+Cowpea___Bacterial wilt
+Cowpea___Healthy
+Cowpea___Mosaic virus
+Cowpea___Septoria leaf spot
+Pea Plant___DOWNY_MILDEW_LEAF
+Pea Plant___Healthy
+Pea Plant___LEAFMINNER_LEAF
+Pea Plant___POWDER_MILDEW_LEAF
